@@ -1,0 +1,17 @@
+.sprite-characters {
+    background: url('../images/sprite_characters.jpg') no-repeat;
+}
+
+.mario {
+    height: 71px;
+    width: 54px;
+    display: inline-block;
+    background-position: -16px -11px;
+}
+
+.link {
+    height: 68px;
+    width: 61px;
+    display: inline-block;
+    background-position: -93px -18px;
+}
